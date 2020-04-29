@@ -2,10 +2,10 @@
 
 Below are the screenshots from the deployment.
 
-<imd src="cockroachdb1.png">
+<img src="cockroachdb1.png">
 
 <p>
 <p>
 <HR>
 
-<imd src="cockroachdeploy.png">
+<img src="cockroachdeploy.png">
