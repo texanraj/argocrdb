@@ -9,3 +9,5 @@ Below are the screenshots from the deployment.
 <HR>
 
 <img src="cockroachdeploy.png">
+
+# After the cluster is up use the loadgen.yaml to create a load on the CockroachDB cluster 
